@@ -107,7 +107,7 @@ Watch how the system works:
 
 View the project presentation:
 
-[Project Presentation]((https://drive.google.com/file/d/1SBKKMX2OV1qdLwUPJxE-MoQTv2ekRo8l/view?usp=sharing))
+[Project Presentation](https://drive.google.com/file/d/1SBKKMX2OV1qdLwUPJxE-MoQTv2ekRo8l/view?usp=sharing)
 ---
 
 ## Results
